@@ -1,1 +1,15 @@
 # si18.foodassistant
+
+![312275930-bb5cb16e-724a-4678-8bcb-1e0b3b4f60bc](https://github.com/tasicaca/si18.foodassistant/assets/96747833/a4032cff-5a45-4fa3-98b6-e1c5519bdd27)
+![312275927-34020119-3f02-4de6-af6a-3275cf8f8ac0](https://github.com/tasicaca/si18.foodassistant/assets/96747833/2b73f36f-3a02-4ef8-96a3-66ab1fa02525)
+![312275925-1348af94-7fc6-4d05-858e-c32243813680](https://github.com/tasicaca/si18.foodassistant/assets/96747833/d10425a8-dee4-4e21-9bd2-8b0828eede1e)
+![312275923-2132af08-5050-4fab-98c6-200262f80bae](https://github.com/tasicaca/si18.foodassistant/assets/96747833/5ce1f064-973b-4335-a54a-ebe4b05441b7)
+![312275921-24da1b7d-e05a-4ab2-9423-286086eb8264](https://github.com/tasicaca/si18.foodassistant/assets/96747833/6a0a2975-74d4-4fd7-a167-56b5eb495c0e)
+![312275920-df5a38cb-8687-443d-aa58-e721702c96af](https://github.com/tasicaca/si18.foodassistant/assets/96747833/6f7851f0-e471-4909-b45e-efcdc6b3b969)
+![312275917-13f0d5d4-8386-4827-b7bb-2c0756210222](https://github.com/tasicaca/si18.foodassistant/assets/96747833/47f1f2f4-5a5f-48b1-9850-63d44231aa16)
+![312275915-2b5c2349-e8ad-421f-9c9b-36fb9e1b5ba3](https://github.com/tasicaca/si18.foodassistant/assets/96747833/3826a143-5d30-478f-84dc-5e763aa7fc2c)
+![312275910-3ba47a96-9abe-4eb5-9ff7-daba57bee05c](https://github.com/tasicaca/si18.foodassistant/assets/96747833/ff75d881-e31c-4738-b772-20c7e50239bd)
+![312275908-f848e66e-80e3-48ff-85b0-c36f1078aa76](https://github.com/tasicaca/si18.foodassistant/assets/96747833/9ec22060-e2fa-48b9-982e-a47f6c5c4dc8)
+![312275903-69646c4b-076d-4f5d-9940-8b76b4aea669](https://github.com/tasicaca/si18.foodassistant/assets/96747833/f6b01e50-52e4-4e6f-860a-cb52a63a54d2)
+![312275902-1b7b07d0-34f7-492a-becc-fb7ede2039b6](https://github.com/tasicaca/si18.foodassistant/assets/96747833/108d0ad6-1695-4202-a778-e6d8d38118c5)
+![312275898-987262b4-2919-4a80-96cd-5398d129d976](https://github.com/tasicaca/si18.foodassistant/assets/96747833/3b8b9b16-bf39-4ae2-ada9-ec328c3d1f34)
